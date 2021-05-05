@@ -1,11 +1,11 @@
 # Site settings
 author: Patrick Brennan
-title: 
+title: Cracking Code
 header-img: img/home-bg.png
 email: pbrennanmusic@gmail.com
 copyright_name: Patrick Brennan
 description: > # this means to ignore newlines until "baseurl:"
-  
+  A journey from coding novice to pro programmer
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  pbrzn
