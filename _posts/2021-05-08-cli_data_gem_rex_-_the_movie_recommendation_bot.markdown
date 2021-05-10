@@ -1,6 +1,6 @@
 ---
 layout: post
-title:      "CLI Data Gem: "Rex - The Movie Recommendation Bot""
+title:      "CLI Data Gem: "Rex: The Movie Recommendation Bot""
 date:       2021-05-08 20:41:16 -0400
 permalink:  cli_data_gem_rex_-_the_movie_recommendation_bot
 ---
